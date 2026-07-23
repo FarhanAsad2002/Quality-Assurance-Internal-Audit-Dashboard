@@ -38,7 +38,9 @@ intelligence**. Without centralized analytics, management faces
 challenges in monitoring compliance, identifying recurring issues,
 prioritizing corrective actions, and improving operational performance.
 
-> **Business Problem Image**
+<p align="center">
+  <img src="Images/business_problem.png" alt="Business Problem" width="900">
+</p>
 
 ### Key Business Questions
 
@@ -60,7 +62,10 @@ reduce operational risks, and support continuous improvement.
 
 ## Methodology
 
-> **Methodology Image**
+<p align="center">
+  <img src="Images/project_methodology.png" alt="Project Methodology" width="900">
+</p>
+
 
 -   Collected and transformed audit datasets using structured data
     preparation techniques.
