@@ -120,7 +120,10 @@ The **Quality Assurance & Internal Audit Analytics Dashboard** consolidates audi
 
 ### Executive Performance Overview
 
-![Executive Dashboard](Screenshot/executive_dashboard.png)
+<p align="center">
+  <img src="Screenshots/dashboard.jpeg" alt="Executive Dashboard" width="900">
+</p>
+
 
 Provides a centralized view of quality performance through executive KPIs, operational trends, compliance monitoring, and audit performance, enabling leadership to evaluate organizational health from a single dashboard.
 
@@ -128,7 +131,9 @@ Provides a centralized view of quality performance through executive KPIs, opera
 
 ### Internal Audit Analytics
 
-![Internal Audit Dashboard](Screenshot/internal_audit_dashboard.png)
+<p align="center">
+  <img src="Screenshots/intaudit.jpeg" alt="Internal Audit Dashboard" width="900">
+</p>
 
 Monitors audit completion, audit pass rates, audit scores, department-wise audit performance, audit type distribution, and auditor effectiveness to improve governance and accountability.
 
@@ -136,7 +141,9 @@ Monitors audit completion, audit pass rates, audit scores, department-wise audit
 
 ### Quality Assurance & Compliance Monitoring
 
-![Quality Assurance Dashboard](Screenshot/quality_assurance_dashboard.png)
+<p align="center">
+  <img src="Screenshots/qualityassurance.jpeg" alt="Quality Assurance Dashboard" width="900">
+</p>
 
 Tracks Overall Quality Score, SOP Compliance, First Pass Quality, SLA Compliance, Documentation Accuracy, and Error Rate to support continuous quality improvement and operational excellence.
 
@@ -144,7 +151,9 @@ Tracks Overall Quality Score, SOP Compliance, First Pass Quality, SLA Compliance
 
 ### Root Cause & Risk Analysis
 
-![Root Cause Dashboard](Screenshot/root_cause_dashboard.png)
+<p align="center">
+  <img src="Screenshots/rootcause.jpeg" alt="Root Cause Dashboard" width="900">
+</p>
 
 Analyzes recurring errors, severity levels, Pareto trends, and corrective actions to identify high-risk operational areas and prioritize process improvements.
 
@@ -152,7 +161,9 @@ Analyzes recurring errors, severity levels, Pareto trends, and corrective action
 
 ### Employee Performance Analytics
 
-![Employee Performance Dashboard](Screenshot/employee_performance_dashboard.png)
+<p align="center">
+  <img src="Screenshots/empperformance.jpeg" alt="Employee Performance Dashboard" width="900">
+</p>
 
 Evaluates employee and departmental performance using quality metrics, audit outcomes, productivity indicators, and compliance scores to support performance management and targeted improvement initiatives.
 
